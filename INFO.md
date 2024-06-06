@@ -1,1 +1,2 @@
 Niger
+new line
